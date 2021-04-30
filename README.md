@@ -6,9 +6,6 @@
 ### Various functions have been implemented using these data structures .
 
 ### The Data structures Used in the project are list,dictionary,set and strings
-### Unit testing has also been done on the functions and a total of 22 functions have been checked 
-
-![image](https://user-images.githubusercontent.com/81297719/116587088-c0ed3a80-a937-11eb-9214-c0c98e5da0e6.png)
 
 ### Steps to Run the Project :
 
@@ -17,3 +14,8 @@
 3. If using an IDE run the main.py file to run the project.
 4. While using the terminal, while being in the direcotry of the project file, run the command : python3 main.py
 5. You can try all the functions implemented on the different data structures. Steps to run the functions are mentioned in the project.
+
+### Unit testing has also been done on the functions and a total of 22 functions have been checked 
+
+![image](https://user-images.githubusercontent.com/81297719/116587088-c0ed3a80-a937-11eb-9214-c0c98e5da0e6.png)
+
